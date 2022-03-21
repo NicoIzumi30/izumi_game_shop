@@ -1,0 +1,38 @@
+body {background-color: #32323e;;
+/*	background-repeat: no-repeat;*/
+/*	background-size: cover;*/
+}
+.bg-dark {
+	background-color: #40ffeabf!important;;
+}
+.card {
+    border-radius: 0;
+    border: 2px solid #cf760b;
+}
+/*.form-search-c {
+	border: 2px solid #6479b1;
+	padding: 10px;
+	margin: 10px 0;
+	
+}*/
+
+
+.btn-beli a{
+width: 100%;
+  height: 100%;
+  background-color: #3b84e9;
+  color: white;
+ display: block;
+ padding: 6px;
+ font-weight: 800;
+text-shadow: 1px 1px 1px #000;"
+}
+.btn-beli a:hover{
+	text-decoration: none;
+	color: #22a7db;
+	background-color: #295899;
+}
+.qrcd {
+	height: 300px;
+	width: 300px;
+}
